@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Optional: Additional global styles or font settings */
+body {
+  @apply bg-gray-50 text-gray-800; /* This only sets default color for body, not links */
+}
+
+a {
+  @apply no-underline; /* Remove underline by default if you like */
+}
