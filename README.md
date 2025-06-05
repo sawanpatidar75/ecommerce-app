@@ -92,4 +92,8 @@ npm run build
 
 MIT
 
+## 🎥 Loom Video Walkthrough
+Check out the complete project walkthrough here: [Loom Video](https://www.loom.com/share/498ebd740e0d41748046edfa425caf8e?sid=1934c996-244c-4d3e-b58b-429244d5b3eb)
+
+
 ### 🙌 Thanks for checking out **E-Shop**! Happy coding! 🚀✨
