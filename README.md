@@ -34,8 +34,8 @@ A full-featured e-commerce platform built with:
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/e-shop.git
-cd e-shop
+git clone https://github.com/sawanpatidar75/ecommerce-app.git
+cd ecommerce-app
 ```
 
 ### 📦 Backend
